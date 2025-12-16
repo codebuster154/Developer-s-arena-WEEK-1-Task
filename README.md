@@ -37,7 +37,6 @@ This project helps beginners understand basic Python concepts like input, variab
 ### User input
 ### String formatting
 ---
-Print statements
 ## 📁 Project Structure
 ```yaml
 personal-introduction-program/
